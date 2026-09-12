@@ -2,19 +2,19 @@
 
 ## Problema
 
-{Qué ocurre hoy, a quién le ocurre y con qué frecuencia}
+{Hoy en dia sufrimos por la contaminacion de areas verdes en Aguascalientes  }
 
 ## Contexto
 
-{Dónde ocurre: tipo de organización, tamaño, herramientas que ya usan}
+{Esto ocurre en Aguascalientes, usaremos fuentes para determinar cuales zonas de Aguscalientes son las mas afectadas }
 
 ## Usuarios afectados
 
-{Quién sufre el problema y quién usaría la solución. Pueden ser personas distintas}
+{El estado de Aguacalientes}
 
 ## Tipo de IA propuesto
 
-{Predictiva, generativa o agente. Justifica con lo que aprendiste en la Parte 2}
+{Usaremos la IA predictiva }
 
 ## Qué dijeron los modelos
 
