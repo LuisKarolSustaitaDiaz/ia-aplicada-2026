@@ -1,6 +1,6 @@
 # Inteligencia Artificial Aplicada
 
-**Estudiante:** {tu nombre completo}
+**Estudiante:** {Luis Karol Sustaita Diaz}
 
 **Carrera:** {Ingeniería en Ciberseguridad}
 
