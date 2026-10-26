@@ -1,0 +1,7 @@
+﻿Iteración,Técnica aplicada,Criterio 1,Criterio 2,Criterio 3,Total,Observación
+0,Línea base (zero-shot),,,,,Pendiente de ejecutar
+1,Rol,6,0,5,11,Formato libre distinto en cada respuesta; en la Entrada 1 afirmó un impacto confirmado
+2,Rol + contexto,3,0,6,9,"Usó las categorías, pero perdió la sección de información faltante"
+3,Rol + contexto + formato,6,6,6,18,Tabla exacta en las 3 entradas; no inventó datos
+4,Anterior + ejemplos (few-shot),6,6,5,17,En la Entrada 2 afirmó acceso no autorizado con severidad alta; posible influencia del ejemplo
+5,Anterior + cadena de razonamiento,6,3,6,15,C2 bajó por el texto Análisis antes de la tabla (esperado); mejoró el matiz en la Entrada 2
